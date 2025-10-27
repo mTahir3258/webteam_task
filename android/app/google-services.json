@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482649441557",
+    "project_id": "webteamtask",
+    "storage_bucket": "webteamtask.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482649441557:android:09a7702190fd726782951c",
+        "android_client_info": {
+          "package_name": "com.example.coding_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE5K0N4BBACzaeTXR3aE7kG_8L_u8CP6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
